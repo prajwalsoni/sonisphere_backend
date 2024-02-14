@@ -1,14 +1,14 @@
-//package com.soni.exception;
-//
-//
-//
-//public class StoryException extends Exception{
-//
-//	public StoryException() {
-//		// TODO Auto-generated constructor stub
-//	}
-//	
-//	public StoryException(String message) {
-//		super();
-//	}
-//}
+package com.soni.exception;
+
+
+
+public class StoryException extends Exception{
+
+	public StoryException() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public StoryException(String message) {
+		super();
+	}
+}
