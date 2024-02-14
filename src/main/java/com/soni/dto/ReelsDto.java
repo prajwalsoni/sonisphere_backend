@@ -1,6 +1,6 @@
 package com.soni.dto;
 
-import com.soni.model.User;
+import com.soni.model.User; 
 
 import jakarta.persistence.ManyToOne;
 import lombok.Data;
